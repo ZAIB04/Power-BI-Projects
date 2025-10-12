@@ -27,17 +27,17 @@ The **Insurance Risk & Claims Analysis Dashboard** provides insights into:
 ## 🧠 Insights
 
 ### 🚗 Claim Amount by Car Use
-- **Commercial**: 57.41%
-- **Private**: 42.59%
+- **Commercial**: $37.41M
+- **Private**: $150.4M
 
 ### 🌍 Claim Amount by Coverage Zone
-- **Suburban**: 30.9%
-- **Rural**: 30.1%
-- **Urban**: 19.5%
-- **Highway**: 19.5%
+- **Suburban**: 19.93%
+- **Rural**: 19.94%
+- **Urban**: 20.35%
+- **Highly Urban**: 19.95%
 
 ### 👥 Claim Amount by Age Group
-- Highest claims from **36–45** age group (~$40M)
+- Highest claims from **36–45** age group (~35.1M)
 - Lowest claims from **65+** age group (~$15M)
 
 ### 📉 Claim Trends by Car Year
