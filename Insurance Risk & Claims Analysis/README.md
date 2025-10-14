@@ -1,4 +1,4 @@
-# 🛡️ Insurance Risk & Claims Analysis Dashboard
+# Project: Insurance Risk & Claims Analysis Dashboard
 
 This project presents a comprehensive dashboard for analyzing insurance policies, claim amounts, and customer demographics. Built to support data-driven decision-making, the dashboard visualizes key metrics and trends that impact insurance risk and claims behavior.
 
