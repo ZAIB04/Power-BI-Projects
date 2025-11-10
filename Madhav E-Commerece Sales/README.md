@@ -25,7 +25,7 @@ Sample e-commerce dataset containing:
 - Delivered insights for **inventory planning** and **marketing strategy**
 
 ## 📊 Dashboard Screenshots
-*(Optional: Add Power BI online report link if hosted)*
+*https://github.com/ZAIB04/Power-BI-Projects/blob/main/Madhav%20E-Commerece%20Sales/Mahdav%20Ecommerce%20Sales%20Image.png*
 
 ## 📈 Outcome / Insights
 - Identified **top-selling categories** (Clothing 63%) and **seasonal profit trends**  
