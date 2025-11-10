@@ -8,6 +8,7 @@ Power BI – for dashboard creation and data visualization
 Excel – for initial data cleaning and formatting
 
 SQL – for data transformation and querying
+
 📂 Data Source
 Sample e-commerce dataset containing:
 
@@ -29,6 +30,7 @@ Visualized monthly profit, category-wise quantity, and customer-wise sales
 Analyzed payment modes and sub-category profitability
 
 Delivered insights for inventory planning and marketing strategy
+
 📊 Dashboard Screenshots
 
 (Optional: Add Power BI online report link if hosted)
