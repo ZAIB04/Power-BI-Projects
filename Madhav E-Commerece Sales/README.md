@@ -1,4 +1,4 @@
-🛍️ Madhav E-Commerce Sales Dashboard
+# 🛍️ Madhav E-Commerce Sales Dashboard
 📌 Overview
 This project is an end-to-end Power BI analysis of Madhav E-Commerce sales data. The goal is to uncover sales trends, product performance, and customer behavior to drive data-informed business decisions.
 
