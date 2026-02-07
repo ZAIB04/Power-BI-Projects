@@ -59,7 +59,8 @@ The dashboard provides a comprehensive view of **sales, profit, average order va
 ### 📌 Author
 **Zaib** – M.Phil. Economics | Data Analyst  
 Skilled in **Excel, Power BI, SQL, and Data Visualization**  
-in/zaib-un-nisa-b39aa0261
+https://www.linkedin.com/in/zaib-un-nisa-b39aa0261
+
 
 
 
