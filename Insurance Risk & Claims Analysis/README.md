@@ -4,7 +4,9 @@
 This project presents a comprehensive dashboard for analyzing insurance policies, claim amounts, and customer demographics. Built to support data-driven decision-making, the dashboard visualizes key metrics and trends that impact insurance risk and claims behavior.
 
 ## 📊 Dashboard Screenshot
-!https://github.com/ZAIB04/Power-BI-Projects/blob/main/Insurance%20Risk%20%26%20Claims%20Analysis/Screenshot%202025-10-12%20192123.png
+
+![Dashboard Screenshot](https://github.com/ZAIB04/Power-BI-Projects/blob/main/Insurance%20Risk%20%26%20Claims%20Analysis/Screenshot%202025-10-12%20192123.png
+)
 ## 📊 Dashboard Insights
 
 The **Insurance Risk & Claims Analysis Dashboard** provides insights into:
