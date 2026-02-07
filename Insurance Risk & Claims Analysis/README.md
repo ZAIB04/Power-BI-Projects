@@ -1,3 +1,69 @@
+# Insurance Risk & Claims Analysis Dashboard 📊
+
+## Overview
+This repository contains an interactive **Power BI dashboard** analyzing insurance policies and claims.  
+The dashboard provides a detailed view of **policy counts, claim amounts, claim frequency, and demographic breakdowns**, helping identify risk patterns and business opportunities.  
+✨ *Data-driven insights for smarter insurance decisions.*
+
+![Dashboard Preview](Dashboard_Screenshot.png)
+
+---
+
+## Features
+- 📈 **Total Policies & Claims** – 37,542 policies with $187.8M total claim amount  
+- 🚗 **Car Use Analysis** – Commercial vs Private claim distribution  
+- 🏙️ **Coverage Zone Insights** – Urban, Highway, Rural, Suburban segmentation  
+- 👥 **Demographics** – Gender, Age Group, Education, Marital Status breakdown  
+- 📊 **Car Make & Year Trends** – Claims by manufacturer and vehicle year  
+- 👨‍👩‍👧 **Kids Driving Impact** – Risk analysis based on number of kids driving  
+- 🔑 **KPIs** – Average claim frequency, average claim amount, policy distribution  
+
+---
+
+## Tools & Skills Used
+- **Power BI** – Dashboard creation, DAX measures, interactive visuals  
+- **Excel** – Data cleaning and preprocessing  
+- **SQL** – Querying and data transformation  
+
+---
+
+## Key Insights
+- Private car use accounts for **$150.4M** in claims, far higher than commercial use.  
+- Age group **26–35** shows the highest claim amount ($38M).  
+- Households with **0 kids driving** contribute the majority of claims ($134M).  
+- Education level impacts claim distribution: **Bachelors (49.8%)** dominate policy holders.  
+- Marital status combined with education reveals nuanced claim patterns (e.g., Married Bachelors = $31M).  
+
+---
+
+## Repository Contents
+- `Insurance_Dataset.csv` → Raw dataset used for analysis  
+- `Insurance_Claims.pbix` → Interactive Power BI dashboard  
+- `Dashboard_Screenshot.png` → Visual preview of the dashboard  
+
+---
+
+## How to Use
+1. Download the `.pbix` file and open it in **Power BI Desktop**.  
+2. Explore interactive filters (e.g., coverage zone, car use) to view customized insights.  
+3. Review the dataset (`.csv`) for preprocessing and validation.  
+4. Use the screenshot for a quick preview of dashboard visuals.  
+
+---
+
+## Future Work 🚀
+- Add **predictive modeling** for claim forecasting.  
+- Implement **advanced DAX measures** for deeper risk analysis.  
+- Expand dataset with more demographic variables for richer insights.  
+- Integrate with **SQL database** for real-time claim monitoring.  
+
+---
+
+### 📌 Author
+**Nisa** – M.Phil. Economics | Data Analyst  
+Skilled in **Excel, Power BI, SQL, and Data Visualization**  
+[LinkedIn Profile](https://www.linkedin.com/in/zaib-un-nisa-b39aa0261) | [Portfolio](#)
+................................................................................
 # Project: Insurance Risk & Claims Analysis Dashboard
 
 This project presents a comprehensive dashboard for analyzing insurance policies, claim amounts, and customer demographics. Built to support data-driven decision-making, the dashboard visualizes key metrics and trends that impact insurance risk and claims behavior.
