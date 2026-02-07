@@ -7,7 +7,7 @@ This project presents a comprehensive dashboard for analyzing insurance policies
 
 ![Dashboard Screenshot](https://github.com/ZAIB04/Power-BI-Projects/blob/main/Insurance%20Risk%20%26%20Claims%20Analysis/Screenshot%202025-10-12%20192123.png
 )
-## 📊 Dashboard Insights
+## 📊 Overview
 
 The **Insurance Risk & Claims Analysis Dashboard** provides insights into:
 
