@@ -1,11 +1,18 @@
-# Insurance Risk & Claims Analysis Dashboard 📊
 
-## Overview
-This repository contains an interactive **Power BI dashboard** analyzing insurance policies and claims.  
-The dashboard provides a detailed view of **policy counts, claim amounts, claim frequency, and demographic breakdowns**, helping identify risk patterns and business opportunities.  
-✨ *Data-driven insights for smarter insurance decisions.*
+# Project: Insurance Risk & Claims Analysis Dashboard 📊
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+This project presents a comprehensive dashboard for analyzing insurance policies, claim amounts, and customer demographics. Built to support data-driven decision-making, the dashboard visualizes key metrics and trends that impact insurance risk and claims behavior.
+
+## 📊 Dashboard Overview
+
+The **Insurance Risk & Claims Analysis Dashboard** provides insights into:
+
+- Total policies issued and claim amounts
+- Claim frequency and average claim per customer
+- Demographic breakdowns (gender, age, education)
+- Car usage and coverage zones
+- Impact of children driving on claim amounts
+- Trends over car manufacturing years
 
 ---
 
@@ -60,7 +67,7 @@ The dashboard provides a detailed view of **policy counts, claim amounts, claim 
 ---
 
 ### 📌 Author
-**Nisa** – M.Phil. Economics | Data Analyst  
+**Zaib** – M.Phil. Economics | Data Analyst  
 Skilled in **Excel, Power BI, SQL, and Data Visualization**  
 [LinkedIn Profile](https://www.linkedin.com/in/zaib-un-nisa-b39aa0261) | [Portfolio](#)
 ................................................................................
