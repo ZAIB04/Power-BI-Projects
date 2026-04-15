@@ -13,6 +13,8 @@ It provides actionable insights into sales performance, product trends, customer
 ---
 
 ## 🟩 Dataset Preview
+<img width="1351" height="731" alt="data ss" src="https://github.com/user-attachments/assets/73d2614c-6535-468e-9947-e42c52de6bd8" />
+
 The dataset includes:
 - **Orders**: 25  
 - **Total Quantity**: 77  
