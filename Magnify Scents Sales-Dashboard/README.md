@@ -35,9 +35,13 @@ The dashboard helps business owners efficiently track:
 4. Use the screenshot for a quick preview of dashboard visuals.  
 ```
 
+
+
 Open the dashboard file in **Power BI** or **Tableau** and connect it to the dataset.
 
 ---
+
+
 
 ## 📸 Screenshots
 <img width="1074" height="583" alt="Magnify scents Sales dashboard" src="https://github.com/user-attachments/assets/1e81d8bc-c175-4169-8880-9de04d5a332c" />
