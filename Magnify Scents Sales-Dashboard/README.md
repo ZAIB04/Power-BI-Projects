@@ -35,11 +35,6 @@ The dashboard helps business owners efficiently track:
 4. Use the screenshot for a quick preview of dashboard visuals.  
 ```
 
-Navigate to the project folder:
-```bash
-cd magnify-scents-dashboard
-```
-
 Open the dashboard file in **Power BI** or **Tableau** and connect it to the dataset.
 
 ---
