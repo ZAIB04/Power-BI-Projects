@@ -64,25 +64,35 @@ The dataset includes:
 
 ---
 
-## ⚡ How to Use the Project
+## 📥 How to Use the Project
+
 ```bash
+git clone https://github.com/Umang0210/Amazon-Sales-Analysis-Dashboard-Power-BI.git
+```
 
-- Open the .pbix file in Power BI Desktop
-- Connect to the dataset
-- Explore interactive filters and visuals
+Open the `.pbix` file in **Power BI Desktop**.
 
-🔮 Future Enhancements
+---
+
+## 📌 Future Enhancements
+
 - Add Customer Demographics for deeper insights
 - Integrate Real-time Sales Data via APIs
 - Expand dashboard to include Inventory Forecasting
 
-🙏 Acknowledgements
+---
+
+## 🙌 Acknowledgements
+
 Inspired by real-world e-commerce analytics and BI reporting practices.
 
-📫 Contact
-Zaib Un Nisa
+---
 
+## 📫 Contact
+
+**Zaib Un Nisa**   
 🔗 LinkedIn: www.linkedin.com/in/zaib-un-nisa-b39aa0261
 🐙 GitHub: https://github.com/ZAIB04
+
 ---
 
