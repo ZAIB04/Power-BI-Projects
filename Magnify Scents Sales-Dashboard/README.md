@@ -66,9 +66,7 @@ The dataset includes:
 
 ## ⚡ How to Use the Project
 ```bash
-git clone Power-BI.git
 
-
 - Open the .pbix file in Power BI Desktop
 - Connect to the dataset
 - Explore interactive filters and visuals
