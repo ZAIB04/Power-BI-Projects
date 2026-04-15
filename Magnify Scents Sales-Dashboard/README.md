@@ -1,7 +1,5 @@
 # Magnify Scents Sales Dashboard 🚀
-This project presents a complete end-to-end **Power BI dashboard** built to analyze the sales performance of **Magnify Scents**, a perfume business.  
-The dashboard provides a unified view of revenue, product performance, category insights, and customer purchase behavior.  
-It helps uncover sales patterns, optimize inventory decisions, and identify key growth opportunities across different channels and customer segments.
+This project presents a complete end-to-end **Power BI dashboard** built to analyze the sales performance of **Magnify Scents**, a perfume business.The dashboard provides a unified view of revenue, product performance, category insights, and customer purchase behavior.It helps uncover sales patterns, optimize inventory decisions, and identify key growth opportunities across different channels and customer segments.
 
 ## 📌 Project Overview
 This project showcases a **Power BI dashboard** designed to analyze and visualize perfume sales data for **Magnify Scents**.  
