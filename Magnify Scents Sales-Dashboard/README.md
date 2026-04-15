@@ -45,8 +45,8 @@ Open the dashboard file in **Power BI** or **Tableau** and connect it to the dat
 ---
 
 ## 📸 Screenshots
+<img width="1074" height="583" alt="Magnify scents Sales dashboard" src="https://github.com/user-attachments/assets/1e81d8bc-c175-4169-8880-9de04d5a332c" />
 
-https://github.com/ZAIB04/Power-BI-Projects/blob/main/Magnify%20Scents%20Sales-Dashboard/Magnify%20scents%20Sales%20dashboard.png
 
 ---
 
