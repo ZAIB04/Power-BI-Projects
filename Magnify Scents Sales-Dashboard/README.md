@@ -1,65 +1,42 @@
-# 🌸 Magnify Scents Sales Dashboard
+# Magnify Scents Sales Dashboard 🚀
 
-## 📖 Description
-This project is a **data visualization dashboard** designed for a perfume business. It provides a clear overview of **sales performance, product trends, and customer preferences**.  
-
-The dashboard helps business owners efficiently track:
-- Orders  
-- Revenue  
-- Product demand  
+## 📌 Project Overview
+This project showcases a **Power BI dashboard** designed to analyze and visualize perfume sales data for **Magnify Scents**.  
+It provides actionable insights into sales performance, product trends, customer preferences, and payment methods.
 
 ---
 
-## 🚀 Features
-- 📊 Display of total orders, sales, and quantities  
-- 📱 Sales channel analysis (In-person, WhatsApp, Instagram)  
-- 🏆 Best-selling perfumes chart  
-- 📦 Product table with restock alerts  
-- 📈 Monthly sales trend visualization  
-- 💳 Payment method distribution (Cash, POS, Transfer)  
-- 🧴 Revenue breakdown by category (Men, Women, Unisex)  
+## 📸 Dashboard Preview
+### 🟦 Overview Dashboard
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
-## 🛠️ Technologies Used
-- Power BI / Tableau (for dashboard visualization)  
-- Data Sources: Sales records, product inventory  
-- Optional: SQL / Excel (for data preprocessing)  
+## 🟩 Dataset Preview
+The dataset includes:
+- **Orders**: 25  
+- **Total Quantity**: 77  
+- **Total Sales**: 1M  
+- **Sales Channels**: In-person, WhatsApp, Instagram  
+- **Payment Methods**: Cash, POS, Transfer  
+- **Categories**: Men, Women, Unisex  
 
 ---
 
-## How to Use
-1. Download the `.pbix` file and open it in **Power BI Desktop**.  
-2. Explore interactive filters to view customized insights.  
-3. Review the dataset (`.csv`) for preprocessing and validation.  
-4. Use the screenshot for a quick preview of dashboard visuals.  
-```
-
-
-
-Open the dashboard file in **Power BI** or **Tableau** and connect it to the dataset.
+## 🔑 Key Insights
+- **Top Selling Perfume**: Rose Elixir (29 units)  
+- **Highest Revenue Channel**: Instagram  
+- **Preferred Payment Method**: Cash (41.41%)  
+- **Balanced Category Sales**: Women (41.41%) vs Men (40.45%)  
 
 ---
 
-
-## 📸 Screenshots
-<img width="1074" height="583" alt="Magnify Scents Sales Dashboard" src="https://github.com/user-attachments/assets/1e81d8bc-c175-4169-8880-9de04d5a332c" />
-
----
-
-## 📂 Usage
-- Open the dashboard in Power BI / Tableau  
-- Use filters (Product Name, Sales Channel, Date)  
-- Analyze charts and tables to make data-driven decisions  
+## 🛠 Tech Stack Used
+- **Power BI Desktop**  
+- **Excel / CSV Dataset**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query for Data Cleaning**  
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome!
-
-1. Fork the repository  
-2. Create a new branch (`git checkout -b feature-branch`)  
-3. Make your changes  
-4. Commit your changes (`git commit -m 'Add new feature'`)  
-5. Push to the branch (`git push origin feature-branch`)  
-6. Open a Pull
+## 📂 Project Structure 
