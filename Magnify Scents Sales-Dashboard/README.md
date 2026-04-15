@@ -69,14 +69,13 @@ For major changes, please open an issue first.
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**.
+
 
 ---
 
 ## 👤 Author
-**Your Name**  
-GitHub: https://github.com/YourProfile  
+**Zaib Un Nisa**  
+https://github.com/ZAIB04
 
 ---
 
