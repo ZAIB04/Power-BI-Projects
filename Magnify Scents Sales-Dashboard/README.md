@@ -86,7 +86,3 @@ Zaib Un Nisa
 🐙 GitHub: https://github.com/ZAIB04
 ---
 
-Would you like me to also **add screenshots of your dashboard panels** (like Sales Channel, Best Selling Perfumes, etc.) inside the README so it looks more visually appealing on GitHub?
-
-
-
