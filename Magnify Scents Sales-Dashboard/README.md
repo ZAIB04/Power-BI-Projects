@@ -42,10 +42,8 @@ Open the dashboard file in **Power BI** or **Tableau** and connect it to the dat
 ---
 
 
-
 ## 📸 Screenshots
-<img width="1074" height="583" alt="Magnify scents Sales dashboard" src="https://github.com/user-attachments/assets/1e81d8bc-c175-4169-8880-9de04d5a332c" />
-
+<img width="1074" height="583" alt="Magnify Scents Sales Dashboard" src="https://github.com/user-attachments/assets/1e81d8bc-c175-4169-8880-9de04d5a332c" />
 
 ---
 
@@ -60,23 +58,8 @@ Open the dashboard file in **Power BI** or **Tableau** and connect it to the dat
 Contributions are welcome!
 
 1. Fork the repository  
-2. Create a new branch  
+2. Create a new branch (`git checkout -b feature-branch`)  
 3. Make your changes  
-4. Submit a pull request  
-
-For major changes, please open an issue first.
-
----
-
-
-
----
-
-## 👤 Author
-**Zaib Un Nisa**  
-https://github.com/ZAIB04
-
----
-
-⭐ Don’t forget to star the repo if you found it useful!
-
+4. Commit your changes (`git commit -m 'Add new feature'`)  
+5. Push to the branch (`git push origin feature-branch`)  
+6. Open a Pull
