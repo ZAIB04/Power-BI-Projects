@@ -28,11 +28,11 @@ The dashboard helps business owners efficiently track:
 
 ---
 
-## ⚙️ Installation / Setup
-
-Clone the repository:
-```bash
-git clone <repo link>
+## How to Use
+1. Download the `.pbix` file and open it in **Power BI Desktop**.  
+2. Explore interactive filters to view customized insights.  
+3. Review the dataset (`.csv`) for preprocessing and validation.  
+4. Use the screenshot for a quick preview of dashboard visuals.  
 ```
 
 Navigate to the project folder:
