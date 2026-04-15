@@ -66,9 +66,9 @@ The dataset includes:
 
 ## ⚡ How to Use the Project
 ```bash
-- Open the .pbix file in Power BI Desktop
-- Connect to the dataset
-- Explore interactive filters and visuals
+ Open the .pbix file in Power BI Desktop
+ Connect to the dataset
+ Explore interactive filters and visuals
 
 🔮 Future Enhancements
 - Add Customer Demographics for deeper insights
