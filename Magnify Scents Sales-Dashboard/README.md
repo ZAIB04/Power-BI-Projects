@@ -8,7 +8,7 @@ It provides actionable insights into sales performance, product trends, customer
 
 ## 📸 Dashboard Preview
 ### 🟦 Overview Dashboard
-![Dashboard Preview](dashboard-preview.png)
+<img width="904" height="501" alt="Magnify scents Sales dashboard" src="https://github.com/user-attachments/assets/a002fd47-427f-4c41-a861-798a86cd0b9f" />
 
 ---
 
