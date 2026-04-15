@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Dashboard (Power BI)
+<img width="763" height="425" alt="ss 1" src="https://github.com/user-attachments/assets/6af76988-28f3-432c-b1cc-d9950a799bc7" /><img width="757" height="432" alt="SS 4" src="https://github.com/user-attachments/assets/29998c53-da54-4db3-be1b-6d606eaf336b" /># 📊 Customer Churn Analysis Dashboard (Power BI)
 
 ## 🚀 Project Overview
 This project presents an interactive Power BI dashboard analyzing customer churn patterns in the telecommunications industry.  
@@ -8,6 +8,14 @@ The goal is to identify key drivers of churn such as contract type, internet ser
 
 ## 📸 Dashboard Preview
 ### 🟦 Overview Dashboard
+![Uploading SS 4.png…]()
+<img width="762" height="432" alt="SS 3" src="https://github.com/user-attachments/assets/d8968033-9b35-4465-95c8-7551221bc3ef" />
+<img width="763" height="425" alt="ss 1" src="https://github.com/user-attachments/assets/727355b4-35aa-4fa4-b95e-cb63f2caf482" />
+<img width="753" height="428" alt="SS 2" src="https://github.com/user-attachments/assets/bb3a7b08-01a5-46f3-8fe5-94163bd61411" />
+
+
+
+
 
 The dashboard provides a comprehensive view of churn metrics, including:
 - Total churn count and percentages
