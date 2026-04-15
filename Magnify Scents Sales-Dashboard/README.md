@@ -42,3 +42,27 @@ The dataset includes:
 ---
 
 ## 📂 Project Structure 
+├── data/ │   └── sales_data.csv ├── dashboard/ │   └── MagnifyScents.pbix ├── 
+
+---
+
+## 🧹 Data Preparation & Modelling
+- Cleaned missing values in sales records  
+- Created relationships between **Products, Sales Channels, Categories, Payment Methods**  
+- Applied **DAX measures** for KPIs (Total Sales, Quantity, Orders)  
+
+---
+
+## 📊 Dashboard Features
+- **Sales Channel Analysis** (Bar Chart)  
+- **Best Selling Perfumes** (Bar Chart)  
+- **Sales Trend Over Time** (Line Chart)  
+- **Payment Method Distribution** (Pie Chart)  
+- **Revenue by Category** (Pie Chart)  
+- **Product Table with Restock Alerts**  
+
+---
+
+## ⚡ How to Use the Project
+```bash
+git clone Power-BI.git
