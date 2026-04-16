@@ -1,4 +1,4 @@
-<img width="763" height="425" alt="ss 1" src="https://github.com/user-attachments/assets/6af76988-28f3-432c-b1cc-d9950a799bc7" /><img width="757" height="432" alt="SS 4" src="https://github.com/user-attachments/assets/29998c53-da54-4db3-be1b-6d606eaf336b" /># 📊 Customer Churn Analysis Dashboard (Power BI)
+## 📊 Customer Churn Analysis Dashboard (Power BI)
 
 ## 🚀 Project Overview
 This project presents an interactive Power BI dashboard analyzing customer churn patterns in the telecommunications industry.  
