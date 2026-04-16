@@ -80,10 +80,12 @@ It provides insights into sales performance, profit trends, customer behavior, a
 This dashboard helps in identifying business trends, improving decision-making, and understanding customer behavior effectively.
 
 ---
+## 📫 Contact
 
-## 👩‍💻 Author
-**Zaib Un Nisa**  
-- MPhil Economics  
-- Data Analyst (SQL | Power BI | Excel)  
+**Zaib Un Nisa**   
+🔗 LinkedIn: www.linkedin.com/in/zaib-un-nisa-b39aa0261
+
+🐙 GitHub: https://github.com/ZAIB04
 
 ---
+
