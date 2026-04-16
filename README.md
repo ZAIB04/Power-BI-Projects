@@ -83,7 +83,7 @@ This dashboard helps in identifying business trends, improving decision-making, 
 
 ## 👩‍💻 Author
 **Zaib Un Nisa**  
-- MPhil Economics  
+- MPhil Economics   .
 - Data Analyst (SQL | Power BI | Excel)  
 
 ---
