@@ -1,3 +1,4 @@
+
 ## 📊 Customer Churn Analysis Dashboard (Power BI)
 
 ## 🚀 Project Overview
@@ -12,7 +13,7 @@ The goal is to identify key drivers of churn such as contract type, internet ser
 <img width="763" height="425" alt="ss 1" src="https://github.com/user-attachments/assets/727355b4-35aa-4fa4-b95e-cb63f2caf482" />
 <img width="753" height="428" alt="SS 2" src="https://github.com/user-attachments/assets/bb3a7b08-01a5-46f3-8fe5-94163bd61411" />
 <img width="762" height="432" alt="SS 3" src="https://github.com/user-attachments/assets/d8968033-9b35-4465-95c8-7551221bc3ef" />
-
+<img width="757" height="432" alt="SS 4" src="https://github.com/user-attachments/assets/26188cf2-3c34-4314-a89e-80ad02561d23" />
 
 
 
