@@ -72,7 +72,10 @@ It provides insights into sales performance, profit trends, customer behavior, a
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](your-image-link-here)
+
+<img width="933" height="518" alt="super Store Sales Dashboard SS" src="https://github.com/user-attachments/assets/968a95c2-94aa-4780-931f-fda6f86e0b7a" />
+<img width="913" height="515" alt="super Store Sales Dashboard SS 1" src="https://github.com/user-attachments/assets/e7d45893-0306-4230-9904-712b3a84f217" />
+
 
 ---
 
@@ -82,9 +85,9 @@ This dashboard helps in identifying business trends, improving decision-making, 
 ---
 ## 📫 Contact
 
-**Zaib Un Nisa**   
-🔗 LinkedIn: www.linkedin.com/in/zaib-un-nisa-b39aa0261
+**Zaib Un Nisa**  
 
+🔗 LinkedIn: www.linkedin.com/in/zaib-un-nisa-b39aa0261
 🐙 GitHub: https://github.com/ZAIB04
 
 ---
